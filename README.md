@@ -1,2 +1,2 @@
-# UgandanKnucklesLanguagePack
-Dont ask me, idek why i made this pack for https://www.spigotmc.org/resources/33217/
+# Ugandan Knuckles Gender Pack
+Dont ask me, IDEK why I made this pack for https://www.spigotmc.org/resources/33217/
