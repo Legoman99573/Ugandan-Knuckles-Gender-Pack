@@ -1,0 +1,19 @@
+pack:
+  name: UgandanKnucklesPack
+  author: Legoman99573
+  website: https://www.spigotmc.org/resources/33217/
+  version: 0.1
+  enabled: true
+genders:
+  UgandanWarrior:
+    description: For de knuckles who fight for de commanda.
+  UgandanKnuckles:
+    description: Ugandan bois who has de ebolas and are looking for da queen so they can find da wae.
+  DeQueen:
+    description: Helps the ugandan bois find da wae
+  DeCommanda:
+    description: Commands de Ugandan Warriors to protect da queen and da wae.
+  NonBelieva:
+    description: The ones the Ugandan Knuckles spit on.
+  NevahFweeze:
+    description: A ugandan warrior who nevah fweezes.
